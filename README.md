@@ -10,4 +10,4 @@ Feel free to fork any of the projects and send us your awesome improvements.
 
 ## Joining the organisation
 
-Currently we only add people who actively maintain the projects in the organisation. If you want to become a maintainer send us a message on the love-forums (TODO link), contact us via gitter (TODO link) or ask in the official LÖVE irc (TODO LINK).
+Currently we only add people who actively maintain the projects in the organisation. If you want to become a maintainer send us a message on the [love-forums](https://love2d.org/forums/), contact us via [gitter](https://gitter.im/love2d-community) or ask in the [official LÖVE irc](http://webchat.oftc.net/?channels=love).
